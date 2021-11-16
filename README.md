@@ -4,7 +4,12 @@ My name is Arung Agamani Budi Putera, a software engineer | digital artist from 
 
 ## Field of Expertise
 
-I am confident in my capabilities on backend and frontend development. My tech stacks are :
+I am confident in my capabilities on various fields. My tech stacks are :
+
+### Desktop Application
+- OpenGL
+- Qt (and PyQt)
+- Unity and C#
 
 ### Backend
 
@@ -16,10 +21,15 @@ I am confident in my capabilities on backend and frontend development. My tech s
 ### Frontend
 
 - React.js
+- Svelte
 - React Native
 - EJS
 
-Additionally, I am capable in handling DevOps related activities, such as setting CI/CD Pipeline. Installing and configuring databases or servers are just my daily routines~~
+### DevOps
+- Kubernetes
+- AWS
+- Azure
+
 
 ## Interest
 
@@ -28,15 +38,13 @@ I have great interest in anything related to system and how-it-works, which make
 - Implementing my own RSA Algorithm
 - 16-bit Operating System
 - Computer Aided Design (CAD) in WebGL from scratch
+- Writing Raytracer
 - and many more...
 
 ## Blog and Website
 
 As I like to implement my own stuffs, I've made my own blog using Next.js which hosts all of my writings. My stuffs can be accessed at links below.
 
-- My Blog
-- Closure Bot (a Discord bot)
-
-## Other Interests
-
-I have experience in doing digital video creation, digital art, and other creative works. Some have won awards at community worldwide convention. Those can be seen at my Youtube channel here.
+- [My Blog](https://blog.howlingmoon.dev)
+- [Closure Bot (a Discord bot)](https://closure.howlingmoon.dev/)
+- [Main Portofolio](https://www.howlingmoon.dev/)
